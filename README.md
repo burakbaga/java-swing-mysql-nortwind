@@ -1,6 +1,8 @@
 # java-swing-mysql-nortwind
 Customer management gui with mysql , swing and nortwind database.
-/n Nortwind Database :https://www.daltinkurt.com/NorthWind-Veritabani
+
+
+Nortwind Database :https://www.daltinkurt.com/NorthWind-Veritabani
 
 
 ![](https://github.com/burakbaga/java-swing-mysql-nortwind/blob/master/imgs/main.png)
